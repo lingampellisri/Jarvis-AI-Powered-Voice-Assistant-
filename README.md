@@ -66,7 +66,6 @@ Controlling IoT Devices
 
 🛠️ Installation
 
-Clone the repository: git clone https://github.com/shirish075/jarvis.git
 
 Install dependencies: pip install -r requirements.txt (add missing packages if any 😐)
 
@@ -85,23 +84,7 @@ We welcome contributions from the community! If you have any ideas for new featu
 Version 1.0: have a lot errors and alot of work should be done
 
 
-🙏 Acknowledgements
 
-We would like to thank the following individuals and organizations for their contributions to the development of Jarvis:
-
-OpenAI for their GPT-3 model, which powers the advanced chat feature.
-
-Google for providing the Google Maps and Places APIs used for location-based services.
-
-The Python community for their open-source libraries and support.
-
-
-
-Contributors
-
-Narendra Vardhan Vadnala
-
-SriRamTeja Arige
 
 
 
