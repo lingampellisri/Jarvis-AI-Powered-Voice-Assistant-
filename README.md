@@ -84,11 +84,3 @@ We welcome contributions from the community! If you have any ideas for new featu
 Version 1.0: have a lot errors and alot of work should be done
 
 
-
-
-
-
-📞 Support
-
-For any questions or assistance with Jarvis, please contact us at shirishponaganti@gmail.com or join our Discord server here.
-
